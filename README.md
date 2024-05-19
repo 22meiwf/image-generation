@@ -2,6 +2,8 @@
 \🎨✨ Excited to share a sneak peek into the fascinating world of image generation! 🌟🖼️  Ever wondered about the magic behind creating captivating anime characters? 🤔✨ Look no further!
 can also see:
 https://adversarial-ml-tutorial.org/
+colab file:
+https://colab.research.google.com/drive/1k19zJP7mvEojPEC4Vde9zClUF7B9jyAL
 
 ![download (2)](https://github.com/22meiwf/image-generation/assets/169924513/b01ba921-b4d4-4a43-bf91-518b92d44471)
 
